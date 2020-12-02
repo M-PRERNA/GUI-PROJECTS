@@ -1,2 +1,2 @@
-# GUI-CALCULATOR-WITH-PYTHON
-this jupyter notebook contains the code to build a GUI calculator using Tkinter library in python
+# GUI-PROJECTS-PYTHON
+This repository holds all my projects in gui with Tkinter.
